@@ -11,3 +11,5 @@ Histopathological examination: The study of the microscopic structure of cells a
 * 2,480 benign and 5,429 malignant samples 
 
 ## Deep Neural Network --> Pre-trained MobileNet combined with a FC Layer. Model is end-to-end trainable.
+
+*** see this presentation for more info: https://github.com/gbatsis/histImgClf/blob/main/Breast%20Cancer%20Histopathological%20Image%20Classification.pdf
